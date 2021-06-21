@@ -1,0 +1,20 @@
+# environment for performing the napari spot detection tutorial
+# install: conda env create -f environment.yaml
+# update:  conda env update -f environment.yaml
+
+name: napari-tutorial
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - cookiecutter
+    - napari
+    - cellpose-napari
+    - notebook
+    - numpy
+    - PyQt5==5.14.2
+    - scikit-image
+    - scipy
