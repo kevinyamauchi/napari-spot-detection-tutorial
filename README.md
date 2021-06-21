@@ -47,9 +47,9 @@ jupyter notebook
 
 Jupyter Notebook will open in a browser window and you will see two notebooks
 
-- `napari_spot_detection_tutorial.ipynb`: this is the activity notebook
-- `napari_spot_detection_tutorial_solution.ipynb`: this is the solution to the activity.
+- `spot_detection_tutorial.ipynb`: this is the activity notebook
+- `spot_detection_tutorial_solution.ipynb`: this is the solution to the activity.
 
-Select `napari_spot_detection_tutorial.ipynb` and begin the tutorial!
+Select `spot_detection_tutorial.ipynb` and begin the tutorial!
 
 
