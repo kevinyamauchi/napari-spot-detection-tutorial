@@ -47,7 +47,8 @@ jupyter notebook
 
 Jupyter Notebook will open in a browser window and you will see two notebooks
 
-- `spot_detection_tutorial.ipynb`: this is the activity notebook
+- `spot_detection_tutorial_beginner.ipynb`: this is the activity notebook for people new to image processing with python
+- `spot_detection_tutorial_advanced.ipynb`: this is the activity notebook for people with experience performing image processing with python
 - `spot_detection_tutorial_solution.ipynb`: this is the solution to the activity.
 
 Select `spot_detection_tutorial.ipynb` and begin the tutorial!
